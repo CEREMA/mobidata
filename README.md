@@ -6,6 +6,12 @@
 en lien avec le projet MOBIDEC / mobscidatfactory
 et la future communauté "utiliser les données pour les études de mobilité"**
 
+Pour tester : allez sur [https://cerema.github.io/mobidata/](https://cerema.github.io/mobidata/)
+
+et cliquez sur le fichier gtfs-kit.ipynb
+
+_________________________________________________________________________
+
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
