@@ -1,6 +1,10 @@
-# JupyterLite Demo
+# Test de Jupyterlite pour publier des tutos de traitement de données de mobilité
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+
+**Test de Jupyterlite pour publier des tutos de traitement de données de mobilité, 
+en lien avec le projet MOBIDEC / mobscidatfactory
+et la future communauté "utiliser les données pour les études de mobilité"**
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
