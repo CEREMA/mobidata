@@ -8,7 +8,8 @@ et la future communauté "utiliser les données pour les études de mobilité"**
 
 Pour tester : allez sur [https://cerema.github.io/mobidata/](https://cerema.github.io/mobidata/)
 
-et cliquez sur le fichier gtfs-kit.ipynb
+et cliquez sur le fichier partridge.ipynb
+Ce notebook vraiment minimaliste ouverte un fichier de données de transport public au format GTFS et affiche le réseau des lignes sur une carte.
 
 _________________________________________________________________________
 
